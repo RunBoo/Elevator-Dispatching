@@ -12,7 +12,7 @@ MFC基于对话框应用程序-电梯调度系统
 两个电梯之间的多线程协调
 
 运行方式：
-下载后直接双击HotelSystem.sln即可运行
+下载后直接双击ElevatorDispatching.sln即可运行
 
 使用过程截图：
 
